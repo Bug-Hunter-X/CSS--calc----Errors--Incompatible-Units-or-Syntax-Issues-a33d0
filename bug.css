@@ -1,0 +1,1 @@
+The CSS property `calc()` is used incorrectly, resulting in unexpected behavior. Specifically, the calculation within `calc()` involves units that are not compatible, or there is a syntax error that prevents the browser from correctly parsing the calculation. For instance, adding pixels and percentages directly might lead to such an error.
